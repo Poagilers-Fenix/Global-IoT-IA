@@ -21,7 +21,7 @@ O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o
 
 
 ## Link para o o arquivo:
-<a href = "https://github.com/Poagilers-Fenix/Global-IoT-IA/tree/main/Tomate">Clique aqui - Jupyter Notebook</a>
+<a href = "https://github.com/Poagilers-Fenix/Global-IoT-IA/tree/main/Tomate/tomate.ipynb">Clique aqui - Jupyter Notebook</a>
 
 
 ## Link para o vídeo do YouTube:
