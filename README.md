@@ -7,7 +7,7 @@
 ## 2TDSG
 
  <b>Poágilers:</b>><br>
- \Daniel Sanchez Melero - 85109<br>
+Daniel Sanchez Melero - 85109<br>
 Giovanna de Mello Leiva - 85817<br>
 Larissa Alves da Silva - 86351<br>
 Kaue Augusto Miranda Santos - 85707<br>
@@ -25,4 +25,4 @@ O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o
 
 
 ## Link para o vídeo do YouTube:
-<a href = "<a href = "https://youtu.be/Pcsi6xjb3sE">Clique aqui - Vídeo YouTube</a>
+<a href = "https://youtu.be/Pcsi6xjb3sE">Clique aqui - Vídeo YouTube</a>
