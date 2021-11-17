@@ -16,7 +16,7 @@
 
 Repositório para a entrega da Global Solution da disciplina Disruptive Architectures IoT and IA - FIAP 2TDSG - Poágilers
 
-O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o arquivo Jupyter Notebook tomate.ipybn. Tem também dois arquivos em pdf referentes a um material teórico utilizado na introdução, para fins de referência de link no próprio texto de introdução teórica nas células do notebook. O dataset também acompanha para constar na mesma pasta no carregamento.
+O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o arquivo Jupyter Notebook tomate.ipynb. Tem também dois arquivos em pdf referentes a um material teórico utilizado na introdução, para fins de referência de link no próprio texto de introdução teórica nas células do notebook. O dataset também acompanha para constar na mesma pasta no carregamento.
 
 
 
