@@ -6,13 +6,13 @@
 
 ## 2TDSG
 
-<font size=7 color="#ed145b"> <b>Poágilers:</b></font><br>
-<font size=4 color="#ed145b"> Daniel Sanchez Melero - 85109</font><br>
-<font size=4 color="#ed145b"> Giovanna de Mello Leiva - 85817</font><br>
-<font size=4 color="#ed145b"> Larissa Alves da Silva - 86351</font><br>
-<font size=4 color="#ed145b"> Kaue Augusto Miranda Santos - 85707</font><br>
-<font size=4 color="#ed145b"> Henrique Neves Lago - 84549</font><br>
-<font size=4 color="#ed145b"> Eric Luiz Campos Pessoa - 86405</font><br>
+ <b>Poágilers:</b>><br>
+ \Daniel Sanchez Melero - 85109<br>
+Giovanna de Mello Leiva - 85817<br>
+Larissa Alves da Silva - 86351<br>
+Kaue Augusto Miranda Santos - 85707<br>
+Henrique Neves Lago - 84549<br>
+Eric Luiz Campos Pessoa - 86405<br>
 
 Repositório para a entrega da Global Solution da disciplina Disruptive Architectures IoT and IA - FIAP 2TDSG - Poágilers
 
@@ -25,3 +25,4 @@ O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o
 
 
 ## Link para o vídeo do YouTube:
+<a href = "<a href = "https://youtu.be/Pcsi6xjb3sE">Clique aqui - Vídeo YouTube</a>
