@@ -18,4 +18,10 @@ Repositório para a entrega da Global Solution da disciplina Disruptive Architec
 
 O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o arquivo Jupyter Notebook tomate.ipybn. Tem também dois arquivos em pdf referentes a um material teórico utilizado na introdução, para fins de referência de link no próprio texto de introdução teórica nas células do notebook. O dataset também acompanha para constar na mesma pasta no carregamento.
 
-O comportamento esperado é da execução das células de uma vez. Como o melhor k para o algoritmo do KNN varia a cada execução em função dos resultados aleatórios do aplit_train_test, é possível que haja uma mudança do melhor k caso o notebook seja rodado na íntegra.
+
+
+## Link para o o arquivo:
+<a href = "https://github.com/Poagilers-Fenix/Global-IoT-IA/tree/main/Tomate'>Clique aqui - Jupyter Notebook</a>
+
+
+## Link para o vídeo do YouTube:
