@@ -1,8 +1,10 @@
-# Global-IoT-IA
+# **Global-IoT-IA**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" width="150" align="left"/>
 
 <br/><br/>
+
+## 2TDSG
 
 <font size=7 color="#ed145b"> <b>Poágilers:</b></font><br>
 <font size=4 color="#ed145b"> Daniel Sanchez Melero - 85109</font><br>
@@ -13,3 +15,7 @@
 <font size=4 color="#ed145b"> Eric Luiz Campos Pessoa - 86405</font><br>
 
 Repositório para a entrega da Global Solution da disciplina Disruptive Architectures IoT and IA - FIAP 2TDSG - Poágilers
+
+O repositório contém uma pasta chamada "Tomate", sendo que dentro dela está o arquivo Jupyter Notebook tomate.ipybn. Tem também dois arquivos em pdf referentes a um material teórico utilizado na introdução, para fins de referência de link no próprio texto de introdução teórica nas células do notebook. O dataset também acompanha para constar na mesma pasta no carregamento.
+
+O comportamento esperado é da execução das células de uma vez. Como o melhor k para o algoritmo do KNN varia a cada execução em função dos resultados aleatórios do aplit_train_test, é possível que haja uma mudança do melhor k caso o notebook seja rodado na íntegra.
